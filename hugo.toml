@@ -1,0 +1,4 @@
+baseURL = "https://financepdf2excel.com/blog/"
+languageCode = "en-us"
+title = "Finance PDF to Excel Blog"
+theme = "hyde"
