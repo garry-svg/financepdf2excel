@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Finance PDF to Excel Blog</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://www.financepdf2excel.com/blog/</link>
     <description>Recent content on Finance PDF to Excel Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 13:23:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.financepdf2excel.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert AIB Statements to PDF</title>
-      <link>http://localhost:1313/blog/posts/convert-aib-statements-pdf/</link>
+      <link>https://www.financepdf2excel.com/blog/posts/convert-aib-statements-pdf/</link>
       <pubDate>Sun, 20 Oct 2024 13:23:50 +0100</pubDate>
-      <guid>http://localhost:1313/blog/posts/convert-aib-statements-pdf/</guid>
+      <guid>https://www.financepdf2excel.com/blog/posts/convert-aib-statements-pdf/</guid>
       <description>This is my first blog post</description>
     </item>
   </channel>
