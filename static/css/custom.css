@@ -92,3 +92,35 @@
 .sidebar-blog-posts a:hover {
     text-decoration: underline; /* Optional: add underline on hover */
 }
+
+.post-title {
+    color: grey; /* Replace with your desired color */
+}
+
+/* Alternatively, target all h1 tags within the post content */
+.post h1, .post-title {
+    color: grey; /* Replace with your desired color */
+}
+
+.home .post-title {
+    color: #2a9d8f; /* Replace with your desired color */
+}
+
+/* If your homepage headings are within a specific container, like `.homepage-posts`, target it */
+.homepage-posts .post-title {
+    color: #2a9d8f;
+}
+
+/* Alternatively, if headings are h2 or h3 within .home, target like this */
+.home h2, .home h3 {
+    color: #2a9d8f;
+}
+
+.posts .post-title a {
+    color: grey; /* Replace with your desired color */
+    text-decoration: none; /* Optional: remove underline from links */
+}
+
+.posts .post-title a:hover {
+    color: lightgray; /* Optional: change color on hover */
+}
