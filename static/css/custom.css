@@ -1,0 +1,94 @@
+/* custom.css */
+
+.sidebar {
+    text-align: left;
+    padding: 2rem 1rem;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: white;
+    border: 2px solid #ccc; /* Set the default border */
+    border-top: none; /* Make the top border invisible */
+    border-radius: 0 0 8px 8px; /* Optional: round only the bottom corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add subtle shadow */
+}
+
+.sidebar a {
+    color: grey; /* Link color in sidebar */
+}
+
+.sidebar-sticky {
+}
+
+/* Optional: Adjust sidebar title style */
+.sidebar-about h1 {
+    color: #2a9d8f;
+    font-size: 1.5em;
+}
+
+/* Sidebar image styling */
+.sidebar-image-container {
+    margin-top: 2rem; /* Space below the image */
+}
+
+.sidebar-image {
+    width: 100%; /* Set width to 100% to make it responsive */
+    border-radius: 8px; /* Optional: add rounded corners */
+    margin-bottom: 15px; /* Add some space below the image */
+}
+
+.sidebar .container {
+    display: flex;
+    flex-direction: column;
+    height: 95vh; /* Make sidebar take full viewport height */
+}
+
+.sidebar-nav-container {
+    margin-bottom: 5rem; /* Pushes this section to the bottom */
+}
+
+/* Style for the navigation links */
+.sidebar-nav {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-nav li {
+    margin-bottom: 10px;
+}
+
+.sidebar-about {
+    text-align: center; /* Center-align text horizontally */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center-align items horizontally */
+    justify-content: center; /* Center-align items vertically */
+    margin-top: 6rem;
+}
+
+/* Style for the blog post section in the sidebar */
+.sidebar-blog-posts {
+    margin-top: 20px; /* Adjust spacing as needed */
+}
+
+.sidebar-blog-posts h2 {
+    font-size: 1.2em;
+    color: #2a9d8f; /* Adjust color */
+    margin-bottom: 10px;
+}
+
+.sidebar-blog-posts ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sidebar-blog-posts li {
+    margin-bottom: 8px;
+}
+
+.sidebar-blog-posts a {
+    color: grey; /* Adjust link color */
+    text-decoration: none;
+}
+
+.sidebar-blog-posts a:hover {
+    text-decoration: underline; /* Optional: add underline on hover */
+}

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Finance PDF to Excel Blog</title>
-    <link>https://www.financepdf2excel.com/blog/categories/</link>
-    <description>Recent content in Categories on Finance PDF to Excel Blog</description>
+    <title>Categories on Convert your Bank Statements to Excel</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Convert your Bank Statements to Excel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://www.financepdf2excel.com/blog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
