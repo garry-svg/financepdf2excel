@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Convert your Bank Statements to Excel</title>
-    <link>//localhost:1313/</link>
+    <link>https://www.financepdf2excel.com/blog/</link>
     <description>Recent content on Convert your Bank Statements to Excel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Oct 2024 13:23:50 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.financepdf2excel.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert AIB Bank Statements to Excel</title>
-      <link>//localhost:1313/posts/convert-aib-statements-pdf/</link>
+      <link>https://www.financepdf2excel.com/blog/posts/convert-aib-statements-pdf/</link>
       <pubDate>Sun, 20 Oct 2024 13:23:50 +0100</pubDate>
-      <guid>//localhost:1313/posts/convert-aib-statements-pdf/</guid>
-      <description>This is my first blog post</description>
+      <guid>https://www.financepdf2excel.com/blog/posts/convert-aib-statements-pdf/</guid>
+      <description>I&amp;rsquo;m a long time customer of AIB.&#xA;Below is a screenshot of the layout of the AIB bank statement.&#xA;The AIB bank statement has a standard layout of 5 columns; date, details, debit, credit, balance.&#xA;When I transform this bank statement it gets transformed as followed:&#xA;The spreadsheet generated is as follows:&#xA;Any customers of AIB, feel free to try out our tool and let us know how you get on!</description>
     </item>
   </channel>
 </rss>

@@ -2,3 +2,7 @@ baseURL = ""
 languageCode = "en-us"
 title = "Convert your Bank Statements to Excel"
 theme = "hyde"
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true

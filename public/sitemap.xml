@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/posts/convert-aib-statements-pdf/</loc>
+    <loc>https://www.financepdf2excel.com/blog/posts/convert-aib-statements-pdf/</loc>
     <lastmod>2024-10-20T13:23:50+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://www.financepdf2excel.com/blog/</loc>
     <lastmod>2024-10-20T13:23:50+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>https://www.financepdf2excel.com/blog/posts/</loc>
     <lastmod>2024-10-20T13:23:50+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://www.financepdf2excel.com/blog/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://www.financepdf2excel.com/blog/tags/</loc>
   </url>
 </urlset>
